@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="safebrowsing.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1372" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT safebrowsing.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="blazemeter.datapipe.prodperfect.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1372" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT blazemeter.datapipe.prodperfect.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="blazedemo.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1372" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT blazedemo.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="blazedemo.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1372" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT blazedemo.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="56" it="0" lt="0" ct="25" ts="1695786533169" s="true" lb="/generate_204-1" rc="204" rm="No Content" tn="" dt="" de="" by="146" sby="305" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String">HTTP/1.1 204 No Content
+Content-Length: 0
+Cross-Origin-Resource-Policy: cross-origin
+Date: Wed, 27 Sep 2023 03:48:51 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9
+Host: www.gstatic.com
+Cache-Control: no-cache
+Pragma: no-cache
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://www.gstatic.com/generate_204</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="optimizationguide-pa.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1372" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="optimizationguide-pa.googleapis.com:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1565" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="407" it="0" lt="407" ct="104" ts="1695786633739" s="true" lb="/-2" rc="302" rm="Found" tn="" dt="text" de="" by="238" sby="449" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String">HTTP/1.1 302 Found
+Location: https://blazedemo.com/
+X-Cloud-Trace-Context: 59964918b54d78c04ed9801bc1d8a195
+Date: Wed, 27 Sep 2023 03:50:32 GMT
+Content-Type: text/html
+Server: Google Frontend
+Content-Length: 0
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9
+Host: blazedemo.com
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+</requestHeader>
+  <responseData class="java.lang.String"></responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">https://blazedemo.com/</redirectLocation>
+  <java.net.URL>http://blazedemo.com/</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="optimizationguide-pa.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1372" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT optimizationguide-pa.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="blazedemo.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1372" sby="0" sc="1" ec="1" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT blazedemo.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="42" it="0" lt="0" ct="24" ts="1695786634192" s="true" lb="/generate_204-3" rc="204" rm="No Content" tn="" dt="" de="" by="146" sby="305" sc="1" ec="0" ng="0" na="0" hn="DESKTOP-9133K1I">
+  <responseHeader class="java.lang.String">HTTP/1.1 204 No Content
+Content-Length: 0
+Cross-Origin-Resource-Policy: cross-origin
+Date: Wed, 27 Sep 2023 03:50:32 GMT
+Connection: close
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9
+Host: www.gstatic.com
+Cache-Control: no-cache
+Pragma: no-cache
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+</requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://www.gstatic.com/generate_204</java.net.URL>
+</httpSample>
+
+</testResults>
